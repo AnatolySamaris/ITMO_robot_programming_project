@@ -61,3 +61,8 @@ python3 src/gesture_recognition/train/model_fit.py
 Интерфейс управления жестами. Жест "thumbs_up".
 
 ![gesture_control_interface](/images/gesture_control_interface.png)
+
+## Демо
+
+![robot_gesture_control_demo](/demo/robot_gesture_control_demo.mp4)
+
